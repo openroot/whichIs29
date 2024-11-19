@@ -91,5 +91,5 @@
 31. [_beam_._motor_]
 ### Not having the first and last word of the sentence.
 + `(must have these or more than these countable segments where it gets enough flexibility to forward any amount of cautionary measure makes a development environment for derivative mechanics against)`
-32. [_stop_._art_] __<ins>Having consecutive words that start with the same character.</ins>__
+32. <ins>[_stop_._art_]</ins> __Having consecutive words that start with the same character.__
 + `(than these any amount measure makes)`

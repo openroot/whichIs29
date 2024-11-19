@@ -1,5 +1,5 @@
 1. [_main_._key_]
-### __head sentence__
+### head sentence
 + `(It must have these or more than these countable segments where it gets enough flexibility to forward any amount of cautionary measure makes a development environment for derivative mechanics against remedy.)`
 2. [_operate_._propel_]
 ### sentence placed at equal blocks of space
@@ -11,7 +11,7 @@
 ### empty space
 + `()`
 5. [_acronym_._watch_]
-### first character of each word along and transformed into any word__
+### first character of each word along and transformed into any word
 + `(Imhtomttcswigeftfaaocmmadefdmar: Introduce widget command; Iwc: Wire; W: Form.)`
 6. [_if_._port_]
 ### characters of sentence in reverse
@@ -92,5 +92,5 @@
 ### Not having the first and last word of the sentence.
 + `(must have these or more than these countable segments where it gets enough flexibility to forward any amount of cautionary measure makes a development environment for derivative mechanics against)`
 32. [_stop_._art_]
-### Having consecutive words that start with the same character.__
+### Having consecutive words that start with the same character.
 + `(than these any amount measure makes)`

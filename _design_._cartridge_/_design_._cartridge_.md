@@ -21,7 +21,7 @@
 11. <ins>[_symmetry_._insulate_]</ins> __words of highest length at separated__
 + `()`
 12. <ins>[_range_._campus_]</ins> __words of lowest length at separated__
-`()`
++ `()`
 13. <ins>[_angel_._sample_]</ins> __first character of each reverse words__
 + `()`
 14. <ins>[_play_._kind_]</ins> __last character of each word at respective word's start__

@@ -1,8 +1,8 @@
-[_main_._key_]
+1. [_main_._key_]
 __head sentence__`(It must have these or more than these countable segments where it gets enough flexibility to forward any amount of cautionary measure makes a development environment for derivative mechanics against remedy.)`
-[_operate_._propel_]
+2. [_operate_._propel_]
 __sentence placed at equal blocks of space__`(It          must        have        these       or          more        than        these       countable   segments    where       it          gets        enough      flexibility to          forward     any         amount      of          cautionary  measure     makes       a           development environment for         derivative  mechanics   against     remedy      .           )`
-[_value_._piece_]
+3. [_value_._piece_]
 __indicated equal space blocks__`(:           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           :           )`
 [_empty_._set_]
 __empty space__`()`

@@ -38,3 +38,17 @@
 + `(Derive)`
 20. <ins>[_lace_]</ins> __Eligible__
 + `(Indigo)`
+21. <ins>[_solution_]</ins> __Hue__
++ `(Symbol)`
+22. <ins>[_tangle_]</ins> __More__
++ `(Boggy)`
+23. <ins>[_common_]</ins> __Live__
++ `(Engine)`
+24. <ins>[_edge_]</ins> __Mark__
++ `(Step)`
+25. <ins>[_asterisk_]</ins> __Sudden__
++ `(Jump)`
+26. <ins>[_expert_]</ins> __Lap__
++ `(Series)`
+27. <ins>[_final_]</ins> __Document__
++ `(Root)`

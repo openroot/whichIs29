@@ -38,3 +38,17 @@
 (Derive)
 [_lace_] {Eligible}
 (Indigo)
+[_solution_] {Hue}
+(Symbol)
+[_tangle_] {More}
+(Boggy)
+[_common_] {Live}
+(Engine)
+[_edge_] {Mark}
+(Step)
+[_asterisk_] {Sudden}
+(Jump)
+[_expert_] {Lap}
+(Series)
+[_final_] {Document}
+(Root)

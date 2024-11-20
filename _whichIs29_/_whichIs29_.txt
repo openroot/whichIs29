@@ -36,3 +36,5 @@
 (Paper)
 [_parachute_] {Parse}
 (Derive)
+[_lace_] {Eligible}
+(Indigo)

@@ -1,0 +1,18 @@
+[_whichIs29_] {Idea}
+(Center)
+[_dendrite_] {Mill}
+(Second)
+[_spike_] {Scheme}
+(Limit)
+[_bulb_] {Profile}
+(Format)
+[_cartridge_] {Device}
+(Account)
+[_design_] {Refill}
+(Resource)
+[_mode_] {Storage}
+(Cylinder)
+[_lay_] {Data}
+(Crunch)
+[_scope_] {Triple}
+(Layer)

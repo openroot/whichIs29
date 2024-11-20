@@ -20,3 +20,7 @@
 (Curve)
 [_serve_] {Cost}
 (Ratio)
+[_academy_] {Energy}
+(Tune)
+[_vault_] {Clip}
+(Band)

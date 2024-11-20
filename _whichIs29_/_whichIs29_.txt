@@ -26,3 +26,13 @@
 (Clip)
 [_host_] {Scratch}
 (Calibrate)
+[_event_] {Home}
+(Network)
+[_depict_] {Favorite}
+(Track)
+[_reimburse_] {Paint}
+(Basket)
+[_snap_] {Crystal}
+(Paper)
+[_parachute_] {Parse}
+(Derive)

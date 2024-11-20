@@ -26,3 +26,13 @@
 + `(Clip)`
 14. <ins>[_host_]</ins> __Scratch__
 + `(Calibrate)`
+15. <ins>[_event_]</ins> __Home__
++ `(Network)`
+16. <ins>[_depict_]</ins> __Favorite__
++ `(Track)`
+17. <ins>[_reimburse_]</ins> __Paint__
++ `(Basket)`
+18. <ins>[_snap_]</ins> __Crystal__
++ `(Paper)`
+19. <ins>[_parachute_]</ins> __Parse__
++ `(Derive)`

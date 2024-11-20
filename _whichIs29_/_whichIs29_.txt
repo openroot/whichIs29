@@ -23,4 +23,6 @@
 [_academy_] {Energy}
 (Tune)
 [_vault_] {Clip}
-(Band)
+(Band
+[_host_] {Scratch}
+(Calibrate)

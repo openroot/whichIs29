@@ -1,5 +1,5 @@
 1. <ins>[_whichIs29_]</ins> __Idea__
-+ `(Center)`
++ `(Centre)`
 2. <ins>[_dendrite_]</ins> __Mill__
 + `(Second)`
 3. <ins>[_spike_]</ins> __Scheme__

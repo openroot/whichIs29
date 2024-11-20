@@ -1,5 +1,5 @@
 [_whichIs29_] {Idea}
-(Center)
+(Centre)
 [_dendrite_] {Mill}
 (Second)
 [_spike_] {Scheme}

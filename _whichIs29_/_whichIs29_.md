@@ -28,7 +28,7 @@
 + `(Calibrate)`
 15. <ins>[_event_]</ins> __Home__
 + `(Network)`
-16. <ins>[_depict_]</ins> __Favorite__
+16. <ins>[_depict_]</ins> __Favourite__
 + `(Track)`
 17. <ins>[_reimburse_]</ins> __Paint__
 + `(Basket)`
@@ -50,5 +50,19 @@
 + `(Jump)`
 26. <ins>[_expert_]</ins> __Lap__
 + `(Series)`
-27. <ins>[_final_]</ins> __Document__
+27. <ins>[_rust_]</ins> __Biscuit__
++ `(Texture)`
+28. <ins>[_original_]</ins> __Data__
++ `(Structure)`
+29. <ins>[_commit_]</ins> __Score__
++ `(Option)`
+30. <ins>[_next_]</ins> __Inhabitable__
++ `(Polymorphic)`
+31. <ins>[_plan_]</ins> __Diagram__
++ `(Boundary)`
+32. <ins>[_volume_]</ins> __Exercise__
++ `(Physics)`
+33. <ins>[_invoke_]</ins> __Chart__
++ `(Random)`
+34. <ins>[_final_]</ins> __Document__
 + `(Root)`

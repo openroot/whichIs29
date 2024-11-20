@@ -28,7 +28,7 @@
 (Calibrate)
 [_event_] {Home}
 (Network)
-[_depict_] {Favorite}
+[_depict_] {Favourite}
 (Track)
 [_reimburse_] {Paint}
 (Basket)
@@ -50,5 +50,19 @@
 (Jump)
 [_expert_] {Lap}
 (Series)
+[_rust_] {Biscuit}
+(Texture)
+[_original_] {Data}
+(Structure)
+[_commit_] {Score}
+(Option)
+[_next_] {Inhabitable}
+(Polymorphic)
+[_plan_] {Diagram}
+(Boundary)
+[_volume_] {Exercise}
+(Physics)
+[_invoke_] {Chart}
+(Random)
 [_final_] {Document}
 (Root)

@@ -20,9 +20,9 @@
 (Curve)
 [_serve_] {Cost}
 (Ratio)
-[_academy_] {Energy}
-(Tune)
-[_vault_] {Clip}
-(Band
+[_academy_] {Tune}
+(Energy)
+[_vault_] {Band}
+(Clip)
 [_host_] {Scratch}
 (Calibrate)

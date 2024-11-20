@@ -20,9 +20,9 @@
 + `(Curve)`
 11. <ins>[_serve_]</ins> __Cost__
 + `(Ratio)`
-12. <ins>[_academy_]</ins> __Energy__
-+ `(Tune)`
-13. <ins>[_vault_]</ins> __Clip__
-+ `(Band)`
+12. <ins>[_academy_]</ins> __Tune__
++ `(Energy)`
+13. <ins>[_vault_]</ins> __Band__
++ `(Clip)`
 14. <ins>[_host_]</ins> __Scratch__
 + `(Calibrate)`
